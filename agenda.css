@@ -6,6 +6,8 @@
 
 body{
     background-image: url(background.png);
+    background-size: cover;
+    
     padding-top: 100px;
 }
 
